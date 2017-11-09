@@ -1,0 +1,1 @@
+<%@ Application CodeBehind="Global.asax.fs" Inherits="Microsoft.Bot.FunSample.SimpleEchoBot.WebApiApplication" %>
